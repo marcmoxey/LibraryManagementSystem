@@ -1,10 +1,9 @@
-Library Management System
+# Library Management System
 
-Description
 
 A simple system to manage a library's book inventory, allowing users to borrow and return books.
 
-Features
+# Features
 
 Store book titles and availability using a dictionary.
 
@@ -18,7 +17,7 @@ Technologies Used
 
 C#
 
-How to Run
+# How to Run
 
 Clone the repository.
 
@@ -26,6 +25,6 @@ Open in Visual Studio.
 
 Run the program.
 
-Future Improvements
+# Future Improvements
 
 Implement a database for persistent storage.
